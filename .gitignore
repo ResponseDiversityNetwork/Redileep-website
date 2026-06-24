@@ -1,0 +1,20 @@
+# Quarto build/cache outputs
+/.quarto/
+/_site/
+**/*.quarto_ipynb
+
+# Private/local source material
+/no_git_tracking/
+/info_to_populate_with/
+
+# Local generated artifacts and dependency links
+/outputs/
+/node_modules
+/node_modules/
+
+# OS/editor clutter
+.DS_Store
+**/.DS_Store
+
+# Local sharing bundles
+/share_packet/

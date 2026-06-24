@@ -1,0 +1,12 @@
+---
+title: "Network"
+description: "About the ReDiLEEP MSCA Doctoral Network."
+---
+
+::: {.page-heading}
+# Network
+
+ReDiLEEP is a funded MSCA Doctoral Network designed to advance response diversity science and translate it into ecosystem preservation, restoration, and policy.
+:::
+
+{{< include _generated/about.md >}}

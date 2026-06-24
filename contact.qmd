@@ -1,0 +1,11 @@
+---
+title: "Contact"
+description: "Contact ReDiLEEP."
+---
+
+::: {.page-heading}
+# Contact
+
+Please address inquiries to [Anna Eklöf at Linköping University](https://liu.se/en/employee/annek49).
+:::
+

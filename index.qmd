@@ -1,0 +1,39 @@
+---
+title: "ReDiLEEP"
+description: "A funded MSCA Doctoral Network using response diversity knowledge to leverage efficient ecosystem preservation and restoration."
+---
+
+::: {.hero}
+::: {.hero-copy}
+::: {.kicker}
+MSCA Doctoral Network
+:::
+
+# ReDiLEEP
+
+Using science-driven response diversity knowledge to leverage efficient ecosystem preservation and restoration.
+
+::: {.hero-actions}
+[Explore the network](about.qmd){.btn .btn-primary}
+[Doctoral opportunities](vacancies.qmd){.btn .btn-outline-light}
+:::
+:::
+:::
+
+{{< include _generated/index.md >}}
+
+::: {.section}
+::: {}
+## Built Around Doctoral Researchers
+
+The network will recruit doctoral candidates into linked projects hosted across the consortium. Each candidate will receive advanced disciplinary training, secondments, supervision across sectors, and a shared cohort experience.
+
+[View planned vacancies](vacancies.qmd){.btn .btn-primary}
+:::
+
+::: {.callout-panel}
+### Funding Note
+
+ReDiLEEP stands for “Using science-driven Response Diversity knowledge to Leverage Efficient Ecosystem Preservation and restoration.” Add the confirmed grant agreement number and official EU acknowledgement wording when available.
+:::
+:::

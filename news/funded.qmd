@@ -1,0 +1,11 @@
+---
+title: "ReDiLEEP Doctoral Network Funded"
+description: "ReDiLEEP has been selected for funding as a Marie Skłodowska-Curie Actions Doctoral Network."
+date: 2026-05-20
+categories: [funding, network]
+image: ../assets/hero-network.png
+---
+
+ReDiLEEP has been selected for funding as a Marie Skłodowska-Curie Actions Doctoral Network.
+
+The network will train doctoral candidates to advance response diversity science and apply it to ecosystem preservation, restoration, biodiversity monitoring, and policy.

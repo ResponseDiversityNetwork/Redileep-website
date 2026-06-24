@@ -1,0 +1,21 @@
+id,name,short_name,category,country,sector,awards_doctoral_degrees,department_or_unit,scientist_in_charge,role,source
+1,Linköping University,LiU,Beneficiary,SE,Academic,Yes,"Department of Physics Chemistry and Biology (IFM)",Anna Eklöf,Coordinator; beneficiary; leads WP5 and WP6; hosts DC1 and DC2,B1 p3 and B2 p37
+2,University of Oldenburg,UOL,Beneficiary,DE,Academic,Yes,Institute for Chemistry and Biology of Marine Environments (ICBM),Helmut Hillebrand,Beneficiary; leads WP3; hosts DC3,B1 p3 and B2 p38
+3,University of Namur,UNamur,Beneficiary,BE,Academic,Yes,"Institute of complex systems (naXys); Institute of Life Earth and the Environment (ILEE)",Frederik De Laender,Beneficiary; leads WP2; hosts DC6 and DC7,B1 p3 and B2 p39
+4,Cardiff University,CarU,Beneficiary,UK,Academic,Yes,School of Biosciences,Fredric Windsor,Beneficiary; leads WP1; hosts DC4 and DC5,B1 p3
+5,University of Helsinki,UH,Beneficiary,FI,Academic,Yes,Faculty of Biological and Environmental Sciences,Elina Kaarlejarvi,Beneficiary; leads WP4; hosts DC9,B1 p3
+6,Agencia Estatal Consejo Superior de Investigaciones Científicas,CSIC,Beneficiary,ES,Academic,No,Centro de Investigaciones sobre Desertificación,Francesco de Bello,Beneficiary; hosts DC8 with Universitat de València as PhD-awarding organisation,B1 p3-p4
+7,Swansea University,SwanU,Beneficiary,UK,Academic,Yes,Department of Biosciences,Mike Fowler,Beneficiary; hosts DC10,B1 p3
+8,University of Zurich,UZH,Beneficiary,CH,Academic,Yes,Department of Evolutionary Biology and Environmental Studies; Department of Geography,Owen Petchey,Beneficiary; hosts DC11 and DC12,B1 p3 and B2 p44
+9,Monash University,Monash,Associated partner,AU,Academic,No,School of Biological Sciences,Giulia Ghedini,Recruitment and supervision of students; secondments; provision of training,B1 p3 and B2 p45
+10,Okinawa Institute of Science and Technology Graduate University,OIST,Associated partner,JP,Academic,Yes,Integrative Community Ecology Unit,Samuel RP-J Ross,Co-supervision of students; secondments; provision of training,B1 p3-p4
+11,Lutra Interactive,Lutra,Associated partner,SE,Non-academic,No,N/A,Anna Eklof,Provision of training,B1 p4
+12,Zulu Ecosystems,Zulu,Associated partner,UK,Non-academic,No,N/A,Claire Burke,Co-supervision of students; secondments; provision of training,B1 p4
+13,Earth Species Project,ESP,Associated partner,US,Non-academic,No,N/A,Olivier Pietquin,Co-supervision of students; secondments; provision of training,B1 p4
+14,Advanced Invasives,AdIn,Associated partner,UK,Non-academic,No,N/A,Daniel Jones,Co-supervision of students; secondments; provision of training,B1 p4
+15,Generalitat Valenciana / CIEF,GENVAL / CIEF,Associated partner,ES,Non-academic,No,CIEF,Guillermo Casanova,Use of seed bank growth chambers and training in seed use and manipulation,B1 p4
+16,Trinity College Dublin,TCD,Associated partner,IE,Academic,Yes,Department of Zoology,Ian Donohue,Secondment host,B1 p4
+17,Swedish Environmental Protection Agency,SEPA,Associated partner,SE,Non-academic,No,Nature Analysis Unit,Thomas Lyrholm,Training and secondment host,B1 p4
+18,ThinkNature,TN,Associated partner,JP,Non-academic,No,N/A,Buntarou Kusumoto,Secondments and provision of training,B1 p4
+19,Welsh Government,WGov,Associated partner,UK,Non-academic,No,Biodiversity Targets Team,Kathryn Mullins,Secondments,B1 p4
+20,Universitat de València,UVEG,Associated partner linked to beneficiary,ES,Academic,Yes,Programa de Doctorat en Biodiversitat i Biologia Evolutiva,,PhD-awarding organisation for CSIC,B1 p4

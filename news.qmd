@@ -1,0 +1,15 @@
+---
+title: "News"
+listing:
+  contents: news
+  type: default
+  fields: [image, date, title, description]
+  sort: "date desc"
+page-layout: full
+---
+
+::: {.page-heading}
+# News
+
+Updates from the ReDiLEEP Doctoral Network.
+:::

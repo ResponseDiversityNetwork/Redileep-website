@@ -1,0 +1,46 @@
+project:
+  type: website
+  output-dir: _site
+  pre-render:
+    - python3 build_scripts/render_pages_from_data.py
+
+website:
+  title: "ReDiLEEP"
+  description: "A funded MSCA Doctoral Network using response diversity knowledge to leverage efficient ecosystem preservation and restoration."
+  favicon: assets/favicon.svg
+  navbar:
+    pinned: true
+    logo: assets/favicon.svg
+    left:
+      - text: "Network"
+        href: about.qmd
+      - text: "Research"
+        href: research.qmd
+      - text: "Training"
+        href: training.qmd
+      - text: "Partners"
+        href: partners.qmd
+      - text: "Vacancies"
+        href: vacancies.qmd
+      - text: "News"
+        href: news.qmd
+    right:
+      - text: "Contact"
+        href: contact.qmd
+  page-footer:
+    left: "ReDiLEEP is a Marie Skłodowska-Curie Actions Doctoral Network funded by the European Union."
+    right:
+      - text: "Contact"
+        href: contact.qmd
+      - text: "News"
+        href: news.qmd
+
+format:
+  html:
+    theme:
+      - cosmo
+      - styles.scss
+    toc: false
+    smooth-scroll: true
+    page-layout: full
+    link-external-newwindow: true

@@ -1,0 +1,12 @@
+---
+title: "Vacancies"
+description: "Doctoral candidate vacancies for ReDiLEEP."
+---
+
+::: {.page-heading}
+# Vacancies
+
+ReDiLEEP will recruit 13 doctoral candidates into linked response diversity projects.
+:::
+
+{{< include _generated/vacancies.md >}}

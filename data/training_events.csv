@@ -1,0 +1,11 @@
+order,event,kind,ects,lead,month,duration_or_format,description,source
+1,Introducing ReDiLEEP time and project management,Introductory meeting,0,LiU,6,3 days,"Introduces training and research objectives develops Personal Career Development Plans and establishes cohort links.",B1 p20
+2,State-of-the-art tools for data management and analysis of response diversity,Training school,1.5,SwanU,10,5 days,"Covers project and data management version control Tidyverse machine learning and visualisation.",B1 p20
+3,Writing science well,Online training school,1.0,OIST,11,1 day per week for 6 weeks,"Builds scientific writing habits including abstracts IMRaD collaborative writing open access publishing and ethical AI use.",B1 p20
+4,Planning and conducting quantitative syntheses,Training school,1.5,UOL,18,4 days,"Teaches quantitative synthesis and meta-analysis workflows using response diversity studies.",B1 p20
+5,Hackathon on analysis and visualisation of diverse response diversity data,Training school,1.5,UZH,22,5 days,"Combines teamwork data analysis and visualisation through an intensive scientific hackathon.",B1 p21
+6,Evidence-based environmental policy making,Online training school,1.0,BioAgora,24,1 day per week for 3 weeks,"Uses evidence-based policy training and ReDiLEEP cases to teach science-policy-industry communication.",B1 p21
+7,Networking web-presence and virtual career fair,Online training school,1.0,CSIC,28,2 days,"Develops professional presence CVs networking skills and employer-facing presentation through a virtual career fair.",B1 p21
+8,Collaborative writing retreat,Training school,1.5,OIST,32,5 days,"Supports papers and thesis chapters through structured writing goals peer feedback and accountability partnerships.",B1 p21
+9,Dissemination and outreach of response diversity research,Online training school,1.0,UH,34,4 days,"Trains communication for scientists stakeholders policymakers and the public including policy briefs and media outputs.",B1 p21
+10,Final meeting and Research Showcase,Final meeting,0,LiU,42,3 days,"Presents research in Brussels and supports meetings with policymakers and stakeholders.",B1 p21-p22

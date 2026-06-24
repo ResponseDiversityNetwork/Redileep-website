@@ -1,0 +1,12 @@
+---
+title: "Research"
+description: "Research themes in the ReDiLEEP Doctoral Network."
+---
+
+::: {.page-heading}
+# Research
+
+ReDiLEEP research will address how response diversity contributes to ecological stability, resilience, functioning, sustainability, and restoration.
+:::
+
+{{< include _generated/research.md >}}

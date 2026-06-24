@@ -1,0 +1,12 @@
+---
+title: "Training"
+description: "Doctoral training programme for ReDiLEEP."
+---
+
+::: {.page-heading}
+# Training
+
+The ReDiLEEP training programme will combine scientific depth with the professional skills needed for collaborative, reproducible, and high-impact response diversity research.
+:::
+
+{{< include _generated/training.md >}}
