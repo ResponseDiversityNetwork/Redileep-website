@@ -37,16 +37,9 @@ To create an issue:
 
 GitHub's own instructions are here: [Creating an issue - GitHub Docs](https://docs.github.com/en/issues/tracking-your-work-with-issues/using-issues/creating-an-issue).
 
-Once the public GitHub repository URL is final, this README can include a direct link to the repository's issue form, usually:
-
-```text
-https://github.com/<owner>/<repository>/issues/new
-```
-If opening a GitHub issue is not possible, email Owen with the proposed change.
+If opening a GitHub issue is not possible for you, email Owen with the proposed change.
 
 ## Suggesting Changes
 
 The preferred way to propose changes to the website or its content is to open a GitHub issue in this repository. An issue is a good place to request text edits, report broken links, suggest new pages, flag outdated information, or discuss website structure before someone edits the source files.
-
-After the metadata, write the news post in Markdown/Quarto text. The website will rebuild automatically after the change is committed and pushed to `main`.
 
