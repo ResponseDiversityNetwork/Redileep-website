@@ -12,7 +12,7 @@ website:
     pinned: true
     logo: assets/favicon.svg
     left:
-      - text: "Network"
+      - text: "About"
         href: about.qmd
       - text: "Research"
         href: research.qmd

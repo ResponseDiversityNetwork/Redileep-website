@@ -1,25 +1,20 @@
----
-title: "Vacancies"
-description: "Doctoral candidate vacancies for ReDiLEEP."
----
-
-::: {.page-heading}
-# Vacancies
-
-ReDiLEEP will recruit 13 doctoral candidates into linked response diversity projects.
-:::
-
-::: {.section .text-list}
-::: {.text-item .wide-item}
-## Recruitment of Doctoral Candidates
-
-Recruitment of doctoral candidates will take place during the second half of 2026. General recruitment information, including general eligibility and employment conditions are here:
-
-[Read the general recruitment information](news/recruitment-information.qmd)
-:::
-
-
+::: {.section}
 ::: {}
+## Recruitment Status
+
+Recruitment details are being prepared. This page will include eligibility requirements, application links, deadlines, salary and contract information, host institution contacts, and final project descriptions.
+
+[Contact the network](contact.qmd){.btn .btn-primary}
+:::
+
+::: {.callout-panel}
+### MSCA Mobility Rule
+
+Doctoral Network recruitment normally includes MSCA eligibility and mobility requirements. Add the official wording here after the vacancy calls are approved.
+:::
+:::
+
+::: {.section .band}
 ## Planned Doctoral Projects
 
 ::: {.project-list}

@@ -1,17 +1,6 @@
----
-title: "Training"
-description: "Doctoral training programme for ReDiLEEP."
----
-
-::: {.page-heading}
-# Training
-
-The ReDiLEEP training programme will combine scientific depth with the professional skills needed for collaborative, reproducible, and high-impact response diversity research.
-:::
-
 ::: {.section .text-list}
 ::: {.text-item .wide-item}
-## Kickoff meeting
+## Introducing ReDiLEEP time and project management
 
 **Introductory meeting | Month 6 | Lead: LiU**  
 Introduces training and research objectives develops Personal Career Development Plans and establishes cohort links.
@@ -39,7 +28,7 @@ Teaches quantitative synthesis and meta-analysis workflows using response divers
 :::
 
 ::: {.text-item .wide-item}
-## Hackathon on analysis and visualisation
+## Hackathon on analysis and visualisation of diverse response diversity data
 
 **Training school | Month 22 | Lead: UZH | 1.5 ECTS**  
 Combines teamwork data analysis and visualisation through an intensive scientific hackathon.

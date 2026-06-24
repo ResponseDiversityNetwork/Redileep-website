@@ -1,14 +1,3 @@
----
-title: "Partners"
-description: "ReDiLEEP consortium partners."
----
-
-::: {.page-heading}
-# Partners
-
-ReDiLEEP is a consortium of beneficiaries, associated partners, supervisors, and sector collaborators spanning Europe and wider international research networks.
-:::
-
 ::: {.section .partner-list}
 ::: {.partner-entry}
 ### Linköping University
@@ -192,4 +181,8 @@ PhD-awarding organisation for CSIC
 
 :::
 
+::: {.section .band}
+## Consortium Snapshot
 
+The public data layer currently lists 8 beneficiaries, 11 associated partners, and 1 associated partner linked to a beneficiary.
+:::
