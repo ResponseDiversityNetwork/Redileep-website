@@ -33,6 +33,8 @@ To create an issue:
 6. Assign the issue to one of the available team members.
 7. Click **Submit new issue**.
 
+[Direct link to the repository issues page.](https://github.com/ResponseDiversityNetwork/Redileep-website/issues)
+
 GitHub's own instructions are here: [Creating an issue - GitHub Docs](https://docs.github.com/en/issues/tracking-your-work-with-issues/using-issues/creating-an-issue).
 
 Once the public GitHub repository URL is final, this README can include a direct link to the repository's issue form, usually:
