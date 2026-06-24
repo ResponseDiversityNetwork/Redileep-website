@@ -9,10 +9,7 @@ description: "Research themes in the ReDiLEEP Doctoral Network."
 ReDiLEEP research will address how response diversity contributes to ecological stability, resilience, functioning, sustainability, and restoration.
 :::
 
-
-
 ::: {.section .text-list}
-::: {.text-item .wide-item}
 ## Research Structure
 
 The research is composed of three interlinked work packages (WPs) and 13 doctoral projects (DCs). The WPs are designed to address the overarching research questions of the network, while the DCs provide focused research on specific aspects of response diversity. The WPs and DCs are interconnected, with each DC contributing to one or more WPs.
@@ -25,37 +22,29 @@ Develop robust scalable methods for accurately measuring response diversity acro
 
 Task 1.1 non-invasive spatial and temporal monitoring; Task 1.2 experimental setups and analysis pipelines; Task 1.3 interdisciplinary theoretical and analytical frameworks.
 
-
-
 ### WP2: The significance of response diversity for stability
 
 Investigate how response diversity enhances ecological stability across ecosystems and contributes to ecosystem function restoration and sustainability policy.
 
 Task 2.1 mechanisms linking RD and stability; Task 2.2 relative importance of RD compared with other drivers; Task 2.3 practical applications for restoration and socio-ecological sustainability.
 
-
 ### WP3: The fate of response diversity under environmental change
 
 Investigate how intrinsic drivers such as biotic interactions and extrinsic drivers such as environmental and anthropogenic disturbances shape response diversity.
 
 Task 3.1 biotic interactions and network structure; Task 3.2 chronic press disturbances; Task 3.3 intense pulse disturbances.
-
-
-
+:::
 
 ::: {.section .text-list}
-::: {.text-item .wide-item}
 ## Doctoral Projects
 
 **DC1, LiU:** How structural patterns of species interactions affect response diversity  
 Explores how ecological network structure and response diversity groups affect ecosystem resilience.  
 *Focus:* Community detection; ecological network simulations; generated and empirical network data; interactive visualisation.
 
-
 **DC2, LiU:** Using soundscapes to reveal how species interaction networks shape response diversity  
 Uses acoustic monitoring to infer species interactions and test how biotic and abiotic drivers shape response diversity.  
 *Focus:* AI pipelines for acoustic recordings; interaction networks; urbanisation gradients; typhoon disturbance data from OIST.
-
 
 **DC3, UOL:** The effect and fate of response diversity under environmental change  
 Tests how phytoplankton response diversity stabilises biomass production and changes under press and pulse warming.  
@@ -98,9 +87,6 @@ Explores trade-offs barriers and opportunities for using response diversity in s
 *Focus:* Agent-based models; socio-economic trade-offs; corporate sustainability reporting; policy implementation barriers.
 
 **DC13, Monash:** Physiological basis and consequences of response diversity  
-Tests how physiological responses underpin response diversity and ecological stability in marine phytoplankton.
+Tests how physiological responses underpin response diversity and ecological stability in marine phytoplankton.  
 *Focus:* Phytoplankton experiments; thermal physiology; community assembly; response and effect traits; mechanistic models.
-
 :::
-
-

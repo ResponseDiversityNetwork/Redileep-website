@@ -9,9 +9,7 @@ description: "About the ReDiLEEP MSCA Doctoral Network."
 ReDiLEEP is a funded MSCA Doctoral Network designed to advance response diversity science and translate it into ecosystem preservation, restoration, and policy.
 :::
 
-
 ::: {.section .text-list}
-::: {.text-item .wide-item}
 ## Aim
 
 The network will train doctoral researchers to work across disciplinary and sector boundaries, with a focus on how response diversity supports socio-ecological resilience under environmental stress. The programme combines 13 linked research projects, network-wide schools, secondments, and shared supervision.
@@ -20,19 +18,12 @@ The network will train doctoral researchers to work across disciplinary and sect
 
 ReDiLEEP links field evidence, experimental systems, quantitative modelling, synthesis, and policy engagement. The network is built to help doctoral researchers move confidently between data, theory, communication, and real-world application.
 
-
-
-::: {}
 ## Objectives
 
-* Identify and elucidate mechanisms through which response diversity contributes to socio-ecological resilience under different environmental stressors.
-* Develop and validate a reproducible standardised toolkit of metrics and empirical methods for quantifying response diversity across ecosystems and spatiotemporal scales.
+- Identify and elucidate mechanisms through which response diversity contributes to socio-ecological resilience under different environmental stressors.
+- Develop and validate a reproducible standardised toolkit of metrics and empirical methods for quantifying response diversity across ecosystems and spatiotemporal scales.
+- Co-design practical frameworks for integrating response diversity into conservation restoration and policy decision-making across diverse socio-ecological contexts.
 
-* Co-design practical frameworks for integrating response diversity into conservation restoration and policy decision-making across diverse socio-ecological contexts.
-:::
-
-
-::: {}
 ## Work Packages
 
 ### WP1: Measuring response diversity
@@ -71,5 +62,3 @@ Manage recruitment research training finances legal requirements communication r
 
 **Lead:** LiU | **Months:** 1-40 | **Doctoral projects:** -
 :::
-
-

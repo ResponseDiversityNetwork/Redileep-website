@@ -10,7 +10,6 @@ ReDiLEEP will recruit 13 doctoral candidates into linked response diversity proj
 :::
 
 ::: {.section .text-list}
-::: {.text-item .wide-item}
 ## Recruitment of Doctoral Candidates
 
 Recruitment of doctoral candidates will take place during the second half of 2026. General recruitment information, including general eligibility and employment conditions are here:
@@ -18,11 +17,9 @@ Recruitment of doctoral candidates will take place during the second half of 202
 [Read the general recruitment information](news/recruitment-information.qmd)
 :::
 
-
-::: {}
+::: {.section .text-list}
 ## Planned Doctoral Projects
 
-::: {.project-list}
 **DC1, LiU:** How structural patterns of species interactions affect response diversity  
 Host: LiU; PhD-awarding entity: LiU; planned start month: 5.  
 Main supervisor: Anna Eklöf. Co-supervisor(s): György Barabas.
@@ -74,6 +71,4 @@ Main supervisor: Maria Santos. Co-supervisor(s): Owen Petchey; Cornelia Krug; Ut
 **DC13, Monash:** Physiological basis and consequences of response diversity  
 Host: Monash; PhD-awarding entity: Monash; planned start month: 6.  
 Main supervisor: Giulia Ghedini. Co-supervisor(s): Frederik De Laender; Mike Fowler; Helmut Hillebrand.
-
-:::
 :::

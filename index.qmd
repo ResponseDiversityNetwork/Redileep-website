@@ -21,7 +21,6 @@ Using science-driven response diversity knowledge to leverage efficient ecosyste
 :::
 
 ::: {.section}
-::: {}
 ## A European doctoral network for response diversity
 
 ReDiLEEP brings together universities, research institutes, policy bodies, NGOs, and industry partners to train doctoral candidates in the science and application of response diversity for resilient ecosystems.
@@ -31,11 +30,9 @@ ReDiLEEP brings together universities, research institutes, policy bodies, NGOs,
 **Training** Foster interdisciplinary and intersectoral collaboration to close gaps between ecological research policymaking and practical implementation.
 
 **Impact** Co-design practical frameworks for integrating response diversity into conservation restoration and policy decision-making across diverse socio-ecological contexts.
-
 :::
 
 ::: {.section}
-::: {}
 ## Built Around Doctoral Researchers
 
 The network will recruit doctoral candidates into linked projects hosted across the consortium. Each candidate will receive advanced disciplinary training, secondments, supervision across sectors, and a shared cohort experience.
@@ -44,8 +41,7 @@ The network will recruit doctoral candidates into linked projects hosted across 
 :::
 
 ::: {.section}
-::: {}
 ## Funding Note
 
-ReDiLEEP stands for “Using science-driven Response Diversity knowledge to Leverage Efficient Ecosystem Preservation and restoration.” Add the confirmed grant agreement number and official EU acknowledgement wording when available.
+ReDiLEEP stands for "Using science-driven Response Diversity knowledge to Leverage Efficient Ecosystem Preservation and restoration." Add the confirmed grant agreement number and official EU acknowledgement wording when available.
 :::

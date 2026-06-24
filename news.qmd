@@ -13,6 +13,3 @@ page-layout: full
 
 Updates from the ReDiLEEP Doctoral Network.
 :::
-
-::: {.section .text-list}
-::: {.text-item .wide-item}
