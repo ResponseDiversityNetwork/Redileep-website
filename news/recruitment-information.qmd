@@ -1,0 +1,94 @@
+---
+title: "General Recruitment Information"
+description: "General information for prospective ReDiLEEP doctoral candidate applicants."
+date: 2026-06-24
+categories: [recruitment, doctoral candidates]
+image: ../assets/hero-network.png
+page-layout: full
+---
+
+::: {.page-heading}
+# General Recruitment Information
+
+General information for prospective ReDiLEEP doctoral candidate applicants.
+:::
+
+::: {.section}
+ReDiLEEP will recruit doctoral candidates into linked research projects across the network. Recruitment advertisements are expected to open in late 2026, with expected start dates during the first three months of 2027.
+
+Final details will be given in the official vacancy advertisements. Those advertisements are expected to be published through the recruiting institutions and on [EURAXESS](https://euraxess.ec.europa.eu/jobs).
+
+## Degrees, Funding, And Secondments
+
+Each doctoral candidate will be enrolled for a single doctoral degree awarded by the main supervisor's institution or the relevant local PhD-awarding institution. ReDiLEEP is not a joint-doctorate programme.
+
+All doctoral projects include mandatory secondments. These secondments are an important part of the training programme and will give candidates experience in other countries, institutions, sectors, and research environments.
+
+Funding and contract duration will be between 36 and 48 months depending on the local situation, doctoral programme structure, and host-institution arrangements. The MSCA-funded employment period is normally 36 months, with any additional local support described in the final vacancy advertisement.
+
+ReDiLEEP will offer very competitive salary rates under the Marie Skłodowska-Curie Actions Doctoral Network framework.
+
+## General Eligibility
+
+Applicants should normally have:
+
+- a master's degree, or equivalent qualification, in a relevant area;
+- clear potential to conduct excellent quality research;
+- ability to work in English;
+- willingness to undertake research secondments in other countries;
+- motivation to work in an international, interdisciplinary, and intersectoral doctoral network.
+
+## MSCA Eligibility Criteria
+
+Under the MSCA Doctoral Networks rules, applicants must also:
+
+- not be in possession of a doctoral degree at the date of recruitment;
+- be in possession of a master's degree in a relevant area, providing the background knowledge needed for the project;
+- meet the MSCA Doctoral Networks mobility rule;
+- demonstrate English-language ability sufficient to benefit fully from the network training and to conduct the individual research project. At least B2 level, or equivalent, in English is expected.
+
+The mobility rule means that applicants must not have resided or carried out their main activity, such as work or studies, in the country of the recruiting beneficiary for more than 12 months in the 36 months immediately before recruitment. Short stays such as holidays are normally not counted. The final assessment of eligibility will be made by the recruiting institution.
+
+Formal MSCA guidance is available in the [MSCA Doctoral Networks 2025 Guide for Applicants](https://ufukavrupa.org.tr/sites/default/files/users/user390/Guide%20for%20applicants%20-%20MSCA%20DN%202025.pdf).
+
+## Benefits And Salary
+
+We offer:
+
+- a comprehensive, interactive, and international doctoral training programme;
+- a dedicated team of experts from European partner institutions and associated international non-academic organisations;
+- a Personal Career Development Plan (PCDP) to prepare doctoral candidates for their future careers;
+- local individual training at universities in accordance with the PCDP;
+- an attractive remuneration package in accordance with MSCA Doctoral Network regulations.
+
+All doctoral candidates will also benefit from professional development opportunities, including secondments, network training modules, transferable-skills courses, workshops, conferences, and public-engagement activities.
+
+Successful candidates will normally receive a full-time employment contract for 36 months under Marie Skłodowska-Curie Actions regulations for Doctoral Candidates. Local arrangements may provide support beyond this period where needed for the local doctoral programme.
+
+The salary consists of a monthly living allowance of EUR 4,010 gross, a monthly mobility allowance of EUR 710, and, if applicable, a monthly family allowance of EUR 660. A long-term leave allowance and a special-needs allowance are offered where applicable. Taxation and social contributions, including pension contributions, will be deducted according to national and institutional regulations.
+
+The country correction coefficient applies to the living allowance to support equal treatment and purchasing-power parity. Salary rules and the final monthly amount will vary depending on the recruiting university and country.
+
+| Recruiting country | Relevant host(s) | Country correction coefficient | Indicative corrected living allowance before deductions |
+|---|---|---:|---:|
+| Sweden | LiU | 119.3% | EUR 4,783.93 |
+| Germany | UOL | 101.5% | EUR 4,070.15 |
+| Belgium | UNamur | 100.0% | EUR 4,010.00 |
+| United Kingdom | Cardiff University; Swansea University | 143.5% | EUR 5,754.35 |
+| Finland | University of Helsinki | 116.4% | EUR 4,667.64 |
+| Spain | CSIC | 94.2% | EUR 3,777.42 |
+| Switzerland | University of Zurich | 163.7% | EUR 6,562.37 |
+| Australia | Monash University | 102.8% | EUR 4,122.28 |
+
+These figures are indicative and provided for general orientation. Final salary information, eligibility checks, and contractual conditions will be specified in each official vacancy advertisement.
+
+## Where To Watch For Vacancies
+
+When recruitment opens, advertisements are expected to be available on:
+
+- [EURAXESS Jobs](https://euraxess.ec.europa.eu/jobs);
+- the recruiting institutions' vacancy pages;
+- the ReDiLEEP website.
+
+Prospective applicants should wait for the official advertisements before submitting applications, because each position will have its own project description, host contact, local application process, and deadline.
+:::
