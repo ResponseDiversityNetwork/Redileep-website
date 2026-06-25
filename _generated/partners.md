@@ -13,7 +13,7 @@ Coordinator; beneficiary; leads WP5 and WP6; hosts DC1 and DC2
 
 **UOL | Beneficiary | DE**  
 Institute for Chemistry and Biology of Marine Environments (ICBM)  
-Scientist in charge: Helmut Hillebrand.  
+Scientist in charge: Maren Striebel.  
 Beneficiary; leads WP3; hosts DC3
 :::
 
