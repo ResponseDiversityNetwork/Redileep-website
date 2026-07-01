@@ -2,6 +2,10 @@
 
 This repository contains the source for the ReDiLEEP public website. The site is built with [Quarto](https://quarto.org/) and published with GitHub Pages via the workflow in `.github/workflows/publish-site.yml`.
 
+## Website Content Source
+
+Most website content now lives directly in the `.qmd` page files. The website no longer uses generated Markdown partials from `_generated/`, and that folder has been deleted. The CSV files in `data/` remain useful as curated reference data, but editing the visible website text usually means editing the relevant `.qmd` file directly.
+
 ## Submitting New Content
 
 The easiest way to submit new website content, such as a news item, event notice, vacancy update, partner update, or correction to existing text, is to open a GitHub issue (see below for how to do this).

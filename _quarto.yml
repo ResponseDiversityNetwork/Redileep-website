@@ -1,8 +1,6 @@
 project:
   type: website
   output-dir: _site
-  pre-render:
-    - python3 build_scripts/render_pages_from_data.py
 
 website:
   title: "ReDiLEEP"

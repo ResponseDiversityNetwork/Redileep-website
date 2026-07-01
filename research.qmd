@@ -18,17 +18,23 @@ The research is composed of three interlinked work packages (WPs) and 13 doctora
 
 ### WP1: Measuring response diversity
 
+**Lead:** CarU
+
 Develop robust scalable methods for accurately measuring response diversity across ecosystems using non-invasive monitoring experiments theory synthesis and policy analysis.
 
 Task 1.1 non-invasive spatial and temporal monitoring; Task 1.2 experimental setups and analysis pipelines; Task 1.3 interdisciplinary theoretical and analytical frameworks.
 
 ### WP2: The significance of response diversity for stability
 
+**Lead:** UNamur
+
 Investigate how response diversity enhances ecological stability across ecosystems and contributes to ecosystem function restoration and sustainability policy.
 
 Task 2.1 mechanisms linking RD and stability; Task 2.2 relative importance of RD compared with other drivers; Task 2.3 practical applications for restoration and socio-ecological sustainability.
 
 ### WP3: The fate of response diversity under environmental change
+
+**Lead:** UOL
 
 Investigate how intrinsic drivers such as biotic interactions and extrinsic drivers such as environmental and anthropogenic disturbances shape response diversity.
 

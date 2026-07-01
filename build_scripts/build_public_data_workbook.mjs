@@ -108,9 +108,9 @@ for (const csvFile of csvFiles) {
 const summary = workbook.worksheets.add("Summary");
 summary.getRange("A1:B5").values = [
   ["Workbook", "ReDiLEEP public website data"],
-  ["Purpose", "Curated public extracts used by the Quarto website"],
+  ["Purpose", "Curated public reference extracts for the ReDiLEEP website"],
   ["Source handling", "Original PDFs remain local and ignored by Git"],
-  ["Refresh partials", "Run build_scripts/render_pages_from_data.py after editing CSVs"],
+  ["Website content", "Visible page text is edited directly in the .qmd files; generated Markdown partials are no longer used"],
   ["Generated sheets", String(csvFiles.length)],
 ];
 summary.getRange("A1:B1").format = {
