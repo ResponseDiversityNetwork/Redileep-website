@@ -80,7 +80,7 @@ Assesses how extreme climatic events disrupt compensatory dynamics and vegetatio
 Studies response diversity and stability in boreal forest and tundra plant communities along environmental gradients.  
 *Focus:* Functional traits; tundra and boreal field systems; remote sensing; environmental change gradients.
 
-**DC10, SwanU:** Restoration of co-invading alien plant species  
+**DC10, SwanU:** Restoration following co-invasion by alien plant species  
 Investigates how response diversity among co-invading alien plants affects persistence restoration and management outcomes.  
 *Focus:* Greenhouse and field experiments; co-invasion dynamics; contaminated post-industrial landscapes; restoration applications.
 
