@@ -1,31 +1,27 @@
 # GitHub Pages Deployment
 
-This repository is configured to build and publish the Quarto website automatically with GitHub Actions.
+This repository builds the Quarto website automatically with GitHub Actions and publishes the rendered files to the `gh-pages` branch.
 
-## Initial GitHub Pages setup
+## GitHub Pages Settings
 
-1. Push this repository to GitHub.
-2. In the GitHub repository, go to **Settings > Pages**.
-3. Under **Build and deployment**, set **Source** to **GitHub Actions**.
-4. Push to the `main` branch. The workflow in `.github/workflows/publish-site.yml` will render the site and deploy `_site` to GitHub Pages.
+In the GitHub repository, go to **Settings > Pages** and use:
 
-The site will first be available at GitHub's Pages URL, usually:
+- **Source:** Deploy from a branch
+- **Branch:** `gh-pages`
+- **Folder:** `/ (root)`
+- **Custom domain:** `redileep.eu`
 
-```text
-https://<github-user-or-org>.github.io/<repository-name>/
-```
+The workflow in `.github/workflows/publish-site.yml` renders the site from `main`, writes the GitHub Pages custom-domain file for `redileep.eu`, and replaces the contents of the `gh-pages` branch with the rendered `_site` output.
 
-## Moving to a custom domain later
+## DNS
 
-When the custom domain is ready:
+The apex domain `redileep.eu` should point to GitHub Pages using GitHub's Pages A records. The `www.redileep.eu` hostname should normally be configured by the domain manager as a CNAME to the GitHub Pages hostname for this organisation.
 
-1. Add the domain in **Settings > Pages > Custom domain**.
-2. Add the DNS records recommended by GitHub.
-3. Add the final public URL back to `_quarto.yml`, for example:
+As of the custom-domain configuration, `_quarto.yml` sets:
 
 ```yaml
 website:
   site-url: "https://redileep.eu"
 ```
 
-Leaving `site-url` unset for now avoids publishing incorrect canonical URLs while the site is served from the temporary GitHub Pages address.
+This gives the rendered site the correct canonical public URL.
