@@ -71,14 +71,14 @@ The country correction coefficient applies to the living allowance to support eq
 
 | Recruiting country | Relevant host(s) | Country correction coefficient | Indicative corrected living allowance before deductions |
 |---|---|---:|---:|
-| Sweden | LiU | 119.3% | EUR 4,783.93 |
-| Germany | UOL | 101.5% | EUR 4,070.15 |
+| Sweden | LiU | 125.0% | EUR 5,012.50 |
+| Germany | UOL | 101.2% | EUR 4,058.12 |
 | Belgium | UNamur | 100.0% | EUR 4,010.00 |
-| United Kingdom | Cardiff University; Swansea University | 143.5% | EUR 5,754.35 |
-| Finland | University of Helsinki | 116.4% | EUR 4,667.64 |
-| Spain | CSIC | 94.2% | EUR 3,777.42 |
-| Switzerland | University of Zurich | 163.7% | EUR 6,562.37 |
-| Australia | Monash University | 102.8% | EUR 4,122.28 |
+| United Kingdom | Cardiff University; Swansea University | 141.7% | EUR 5,682.17 |
+| Finland | University of Helsinki | 118.0% | EUR 4,731.80 |
+| Spain | CSIC | 95.6% | EUR 3,833.56 |
+| Switzerland | University of Zurich | 163.8% | EUR 6,568.38 |
+| Australia | Monash University | 108.3% | EUR 4,342.83 |
 
 These figures are indicative and provided for general orientation. Final salary information, eligibility checks, and contractual conditions will be specified in each official vacancy advertisement.
 

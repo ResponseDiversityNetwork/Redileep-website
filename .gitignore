@@ -21,3 +21,6 @@
 .Rproj.user
 
 *.RProj
+# Local source material not for publication
+/source/
+/sources/
