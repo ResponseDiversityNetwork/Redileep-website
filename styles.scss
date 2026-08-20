@@ -1,24 +1,25 @@
 /*-- scss:defaults --*/
 $primary: #0d766e;
-$secondary: #d95f43;
+$secondary: #1f476b;
 $success: #6a9f3d;
 $body-bg: #fbfcf9;
-$body-color: #162421;
+$body-color: #0e2439;
 $link-color: #0d766e;
 $font-family-sans-serif: "Inter", "Aptos", "Segoe UI", system-ui, -apple-system, sans-serif;
 $headings-font-weight: 760;
 $navbar-bg: rgba(251, 252, 249, 0.94);
-$navbar-fg: #162421;
+$navbar-fg: #0e2439;
 $navbar-hl: #0d766e;
 
 /*-- scss:rules --*/
 :root {
-  --redileep-ink: #162421;
-  --redileep-muted: #5e6d68;
+  --redileep-ink: #0e2439;
+  --redileep-muted: #5b6b78;
   --redileep-teal: #0d766e;
   --redileep-green: #6a9f3d;
-  --redileep-coral: #d95f43;
-  --redileep-mist: #e9f1ea;
+  --redileep-navy: #1f476b;
+  --redileep-navy-deep: #0e2439;
+  --redileep-mist: #e8f1ee;
   --redileep-paper: #fbfcf9;
   --redileep-page-gutter: clamp(1rem, 4vw, 3rem);
   --redileep-content-width: 820px;
@@ -29,13 +30,14 @@ body {
 }
 
 .navbar {
-  border-bottom: 1px solid rgba(22, 36, 33, 0.09);
+  border-bottom: 1px solid rgba(14, 36, 57, 0.09);
   backdrop-filter: blur(16px);
 }
 
 .navbar-brand img {
-  width: 32px;
-  height: 32px;
+  width: auto;
+  height: 40px;
+  max-width: none;
 }
 
 .quarto-title-block {
@@ -62,7 +64,7 @@ body {
   display: grid;
   align-items: center;
   background:
-    linear-gradient(90deg, rgba(13, 52, 48, 0.86), rgba(13, 52, 48, 0.56) 42%, rgba(13, 52, 48, 0.08) 76%),
+    linear-gradient(90deg, rgba(14, 36, 57, 0.88), rgba(14, 36, 57, 0.58) 42%, rgba(13, 60, 55, 0.1) 76%),
     url("assets/hero-network.png") center / cover no-repeat;
   color: white;
   padding: clamp(4rem, 7vw, 7rem) clamp(1.25rem, 6vw, 6rem) clamp(3rem, 6vw, 5rem);
@@ -83,6 +85,13 @@ body {
   margin-inline: auto;
   position: relative;
   z-index: 1;
+}
+
+.brand-logo {
+  display: block;
+  height: clamp(4rem, 9vw, 6.5rem);
+  width: auto;
+  margin-bottom: 1.5rem;
 }
 
 .kicker {
@@ -153,7 +162,7 @@ body {
 
 .page-heading {
   padding: clamp(4.5rem, 8vw, 7rem) 0 clamp(2rem, 4vw, 3.25rem);
-  border-bottom: 1px solid rgba(22, 36, 33, 0.16);
+  border-bottom: 1px solid rgba(14, 36, 57, 0.16);
 }
 
 .page-heading h1,
@@ -171,7 +180,7 @@ body {
 }
 
 .fact-list {
-  border-top: 1px solid rgba(22, 36, 33, 0.16);
+  border-top: 1px solid rgba(14, 36, 57, 0.16);
   margin-top: 1.6rem;
   padding-top: 1.1rem;
   color: var(--redileep-muted);
@@ -210,7 +219,7 @@ body {
 
 .text-item,
 .partner-entry {
-  border-top: 1px solid rgba(22, 36, 33, 0.16);
+  border-top: 1px solid rgba(14, 36, 57, 0.16);
   padding-top: 1rem;
 }
 
@@ -241,7 +250,7 @@ body {
 }
 
 .callout-panel {
-  border-top: 3px solid var(--redileep-coral);
+  border-top: 3px solid var(--redileep-navy);
   padding-top: 1rem;
 }
 
@@ -250,7 +259,7 @@ body {
 }
 
 .project-list p {
-  border-top: 1px solid rgba(22, 36, 33, 0.16);
+  border-top: 1px solid rgba(14, 36, 57, 0.16);
   padding-top: 1rem;
 }
 
@@ -271,12 +280,12 @@ body {
 }
 
 .quarto-listing .quarto-post {
-  border-bottom: 1px solid rgba(22, 36, 33, 0.16);
+  border-bottom: 1px solid rgba(14, 36, 57, 0.16);
   padding-bottom: 1.2rem;
 }
 
 .page-footer {
-  background: #102c28;
+  background: #0e2439;
   color: rgba(255, 255, 255, 0.78);
 }
 
@@ -288,7 +297,7 @@ body {
   .hero {
     min-height: calc(88vh - 58px);
     background:
-      linear-gradient(180deg, rgba(13, 52, 48, 0.9), rgba(13, 52, 48, 0.46) 62%, rgba(13, 52, 48, 0.24)),
+      linear-gradient(180deg, rgba(14, 36, 57, 0.92), rgba(14, 36, 57, 0.48) 62%, rgba(14, 36, 57, 0.24)),
       url("assets/hero-network.png") center / cover no-repeat;
   }
 }

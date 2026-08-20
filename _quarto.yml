@@ -9,7 +9,7 @@ website:
   favicon: assets/favicon.svg
   navbar:
     pinned: true
-    logo: assets/favicon.svg
+    logo: assets/network-logo/redileep-logo.png
     left:
       - text: "About"
         href: about.qmd
