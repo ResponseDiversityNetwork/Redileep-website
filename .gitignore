@@ -6,6 +6,7 @@
 # Private/local source material
 /no_git_tracking/
 /info_to_populate_with/
+/_to_delete/
 
 # Local generated artifacts and dependency links
 /outputs/
