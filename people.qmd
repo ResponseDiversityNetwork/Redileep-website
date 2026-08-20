@@ -35,12 +35,12 @@ Zulu Ecosystems
 
 ::: {.person .person-no-photo}
 **Cornelia Krug**  
-Affiliation to be confirmed
+University of Zurich
 :::
 
 ::: {.person .person-no-photo}
 **Dan Eastwood**  
-Affiliation to be confirmed
+Swansea University
 :::
 
 ::: {.person .person-no-photo}
@@ -92,7 +92,7 @@ Generalitat Valenciana / CIEF
 
 ::: {.person .person-no-photo}
 **György Barabas**  
-Affiliation to be confirmed
+Linköping University
 :::
 
 ::: {.person}
@@ -115,7 +115,7 @@ Welsh Government
 
 ::: {.person .person-no-photo}
 **Laura Antão**  
-Affiliation to be confirmed
+University of Turku
 :::
 
 ::: {.person}
@@ -123,7 +123,7 @@ Affiliation to be confirmed
 <img src="assets/photos-of-members/maren-striebel.jpg" alt="Maren Striebel" class="person-photo">
 ```
 **Maren Striebel**  
-Affiliation to be confirmed
+University of Oldenburg
 :::
 
 ::: {.person}
@@ -165,7 +165,7 @@ Earth Species Project
 
 ::: {.person .person-no-photo}
 **Tad Dallas**  
-Affiliation to be confirmed
+University of South Carolina
 :::
 
 ::: {.person .person-no-photo}
@@ -175,7 +175,7 @@ Swedish Environmental Protection Agency
 
 ::: {.person .person-no-photo}
 **Ute Jacob**  
-Affiliation to be confirmed
+Helmholtz Institute for Functional Marine Biodiversity (HIFMB), University of Oldenburg
 :::
 
 :::

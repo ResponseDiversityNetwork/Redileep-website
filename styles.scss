@@ -353,23 +353,37 @@ body {
   background: transparent;
 }
 
-.nav-footer-left {
-  max-width: 640px;
+.nav-footer {
+  justify-content: center;
+}
+
+.nav-footer-left,
+.nav-footer-right {
+  display: none;
+}
+
+.nav-footer-center {
+  width: 90%;
+  max-width: 90%;
+  margin: 0 auto;
+  text-align: center;
+  flex: 0 1 auto;
 }
 
 .funder-logo {
   display: block;
   height: 40px;
   width: auto;
-  margin-bottom: 0.85rem;
+  margin: 0 auto 0.85rem;
   border-radius: 4px;
 }
 
-.nav-footer-left p {
+.nav-footer-center p {
   font-size: 0.82rem;
   line-height: 1.55;
   color: rgba(255, 255, 255, 0.68);
   margin-bottom: 0;
+  text-align: center;
 }
 
 @media (max-width: 900px) {

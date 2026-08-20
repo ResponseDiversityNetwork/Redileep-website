@@ -4,8 +4,27 @@ description: "ReDiLEEP has been selected for funding as a Marie Skłodowska-Curi
 date: 2026-05-20
 categories: [funding, network]
 image: ../assets/hero-network.png
+page-layout: full
 ---
 
+::: {.page-heading}
+# ReDiLEEP Doctoral Network Funded
+
 ReDiLEEP has been selected for funding as a Marie Skłodowska-Curie Actions Doctoral Network.
+:::
+
+::: {.section}
+ReDiLEEP has been selected for funding as a Marie Skłodowska-Curie Actions (MSCA) Doctoral Network, funded by the European Union's Horizon Europe research and innovation programme under grant agreement No. 101312530.
 
 The network will train doctoral candidates to advance response diversity science and apply it to ecosystem preservation, restoration, biodiversity monitoring, and policy.
+
+## Why response diversity
+
+Response diversity describes the range of different ways that the species and processes within an ecosystem respond to the same environmental change. That diversity is a key source of ecological resilience, yet it is still difficult to measure and rarely features directly in conservation, restoration, or policy practice. ReDiLEEP was designed to close that gap, bringing together field evidence, experimental systems, quantitative modelling, synthesis, and policy engagement in a single training and research programme.
+
+## A network built around doctoral researchers
+
+ReDiLEEP brings together 20 partner organisations — universities, research institutes, policy bodies, NGOs, and industry partners — coordinated by Linköping University. Thirteen linked doctoral projects, organised into complementary work packages on measuring response diversity, understanding its role in ecosystem stability, and its fate under environmental change, will run across the consortium. Each doctoral candidate will combine advanced disciplinary training with secondments, cross-sector supervision, and a shared cohort experience with the rest of the network.
+
+Recruitment will open in stages over the course of the network. See the [Vacancies](../vacancies.qmd) page, and the [General Recruitment Information](recruitment-information.qmd) post, for details as they are announced.
+:::
