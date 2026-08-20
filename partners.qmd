@@ -11,6 +11,9 @@ ReDiLEEP is a consortium of beneficiaries, associated partners, supervisors, and
 
 ::: {.section .partner-list}
 ::: {.partner-entry}
+```{=html}
+<img src="assets/partner-logos/liu.png" alt="Linköping University logo" class="partner-logo">
+```
 ### Linköping University
 
 **LiU | Beneficiary | SE**  
@@ -20,6 +23,9 @@ Coordinator; beneficiary; leads WP5 and WP6; hosts DC1 and DC2
 :::
 
 ::: {.partner-entry}
+```{=html}
+<img src="assets/partner-logos/oldenburg.png" alt="University of Oldenburg logo" class="partner-logo">
+```
 ### University of Oldenburg
 
 **UOL | Beneficiary | DE**  
@@ -29,6 +35,9 @@ Beneficiary; leads WP3; hosts DC3
 :::
 
 ::: {.partner-entry}
+```{=html}
+<img src="assets/partner-logos/namur.png" alt="University of Namur logo" class="partner-logo">
+```
 ### University of Namur
 
 **UNamur | Beneficiary | BE**  
@@ -38,6 +47,9 @@ Beneficiary; leads WP2; hosts DC6 and DC7
 :::
 
 ::: {.partner-entry}
+```{=html}
+<img src="assets/partner-logos/cardiff.svg" alt="Cardiff University logo" class="partner-logo">
+```
 ### Cardiff University
 
 **CarU | Beneficiary | UK**  
@@ -47,6 +59,9 @@ Beneficiary; leads WP1; hosts DC4 and DC5
 :::
 
 ::: {.partner-entry}
+```{=html}
+<img src="assets/partner-logos/helsinki.png" alt="University of Helsinki logo" class="partner-logo">
+```
 ### University of Helsinki
 
 **UH | Beneficiary | FI**  
@@ -65,6 +80,9 @@ Beneficiary; hosts DC8 with Universitat de València as PhD-awarding organisatio
 :::
 
 ::: {.partner-entry}
+```{=html}
+<img src="assets/partner-logos/swansea.png" alt="Swansea University logo" class="partner-logo">
+```
 ### Swansea University
 
 **SwanU | Beneficiary | UK**  
@@ -74,6 +92,9 @@ Beneficiary; hosts DC10
 :::
 
 ::: {.partner-entry}
+```{=html}
+<img src="assets/partner-logos/uzh.png" alt="University of Zurich logo" class="partner-logo">
+```
 ### University of Zurich
 
 **UZH | Beneficiary | CH**  
@@ -83,6 +104,9 @@ Beneficiary; hosts DC11 and DC12
 :::
 
 ::: {.partner-entry}
+```{=html}
+<img src="assets/partner-logos/monash.png" alt="Monash University logo" class="partner-logo">
+```
 ### Monash University
 
 **Monash | Associated partner | AU**  

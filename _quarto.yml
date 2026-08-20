@@ -19,6 +19,8 @@ website:
         href: training.qmd
       - text: "Partners"
         href: partners.qmd
+      - text: "People"
+        href: people.qmd
       - text: "Vacancies"
         href: vacancies.qmd
       - text: "News"

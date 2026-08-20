@@ -1,0 +1,181 @@
+---
+title: "People"
+description: "Everyone currently leading and supervising the ReDiLEEP MSCA Doctoral Network."
+---
+
+::: {.page-heading}
+# People
+
+Everyone currently involved in leading and supervising the ReDiLEEP network, across its beneficiary and associated partner organisations. Doctoral candidates will be added here once recruitment is complete (see [Vacancies](vacancies.qmd)).
+:::
+
+::: {.section .people-grid}
+::: {.person .person-no-photo}
+**Alicia Montesinos**  
+Affiliation to be confirmed
+:::
+
+::: {.person}
+```{=html}
+<img src="assets/photos-of-members/anna-eklof.jpg" alt="Anna Eklöf" class="person-photo">
+```
+**Anna Eklöf**  
+Linköping University
+:::
+
+::: {.person .person-no-photo}
+**Buntarou Kusumoto**  
+ThinkNature
+:::
+
+::: {.person .person-no-photo}
+**Claire Burke**  
+Zulu Ecosystems
+:::
+
+::: {.person .person-no-photo}
+**Cornelia Krug**  
+Affiliation to be confirmed
+:::
+
+::: {.person .person-no-photo}
+**Dan Eastwood**  
+Affiliation to be confirmed
+:::
+
+::: {.person .person-no-photo}
+**Daniel Jones**  
+Advanced Invasives
+:::
+
+::: {.person}
+```{=html}
+<img src="assets/photos-of-members/elina-kaarlejarvi.jpg" alt="Elina Kaarlejärvi" class="person-photo">
+```
+**Elina Kaarlejärvi**  
+University of Helsinki
+:::
+
+::: {.person .person-no-photo}
+**Francesco de Bello**  
+Agencia Estatal Consejo Superior de Investigaciones Científicas
+:::
+
+::: {.person}
+```{=html}
+<img src="assets/photos-of-members/frederik-de-laender.jpg" alt="Frederik De Laender" class="person-photo">
+```
+**Frederik De Laender**  
+University of Namur
+:::
+
+::: {.person}
+```{=html}
+<img src="assets/photos-of-members/fredric-windsor.jpg" alt="Fredric Windsor" class="person-photo">
+```
+**Fredric Windsor**  
+Cardiff University
+:::
+
+::: {.person}
+```{=html}
+<img src="assets/photos-of-members/giulia-ghedini.jpg" alt="Giulia Ghedini" class="person-photo">
+```
+**Giulia Ghedini**  
+Monash University
+:::
+
+::: {.person .person-no-photo}
+**Guillermo Casanova**  
+Generalitat Valenciana / CIEF
+:::
+
+::: {.person .person-no-photo}
+**György Barabas**  
+Affiliation to be confirmed
+:::
+
+::: {.person}
+```{=html}
+<img src="assets/photos-of-members/helmut-hillebrand.jpg" alt="Helmut Hillebrand" class="person-photo">
+```
+**Helmut Hillebrand**  
+University of Oldenburg
+:::
+
+::: {.person .person-no-photo}
+**Ian Donohue**  
+Trinity College Dublin
+:::
+
+::: {.person .person-no-photo}
+**Kathryn Mullins**  
+Welsh Government
+:::
+
+::: {.person .person-no-photo}
+**Laura Antão**  
+Affiliation to be confirmed
+:::
+
+::: {.person}
+```{=html}
+<img src="assets/photos-of-members/maren-striebel.jpg" alt="Maren Striebel" class="person-photo">
+```
+**Maren Striebel**  
+Affiliation to be confirmed
+:::
+
+::: {.person}
+```{=html}
+<img src="assets/photos-of-members/maria-santos.jpg" alt="Maria Santos" class="person-photo">
+```
+**Maria Santos**  
+University of Zurich
+:::
+
+::: {.person}
+```{=html}
+<img src="assets/photos-of-members/mike-fowler.jpg" alt="Mike Fowler" class="person-photo">
+```
+**Mike Fowler**  
+Swansea University
+:::
+
+::: {.person}
+```{=html}
+<img src="assets/photos-of-members/owen-petchey.jpg" alt="Owen Petchey" class="person-photo">
+```
+**Owen Petchey**  
+University of Zurich
+:::
+
+::: {.person}
+```{=html}
+<img src="assets/photos-of-members/samuel-ross.jpg" alt="Samuel Ross" class="person-photo">
+```
+**Samuel Ross**  
+Okinawa Institute of Science and Technology Graduate University
+:::
+
+::: {.person .person-no-photo}
+**Sara Keen**  
+Earth Species Project
+:::
+
+::: {.person .person-no-photo}
+**Tad Dallas**  
+Affiliation to be confirmed
+:::
+
+::: {.person .person-no-photo}
+**Thomas Lyrholm**  
+Swedish Environmental Protection Agency
+:::
+
+::: {.person .person-no-photo}
+**Ute Jacob**  
+Affiliation to be confirmed
+:::
+
+:::
