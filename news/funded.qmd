@@ -8,7 +8,7 @@ page-layout: full
 ---
 
 ::: {.page-heading}
-# ReDiLEEP Doctoral Network Funded
+# ![](../assets/network-logo/redileep-logo.png){.title-mark alt=""} ReDiLEEP Doctoral Network Funded
 
 ReDiLEEP has been selected for funding as a Marie Skłodowska-Curie Actions Doctoral Network.
 :::

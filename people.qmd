@@ -4,7 +4,7 @@ description: "Everyone currently leading and supervising the ReDiLEEP MSCA Docto
 ---
 
 ::: {.page-heading}
-# People
+# ![](assets/network-logo/redileep-logo.png){.title-mark alt=""} People
 
 Everyone currently involved in leading and supervising the ReDiLEEP network, across its beneficiary and associated partner organisations. Doctoral candidates will be added here once recruitment is complete (see [Vacancies](vacancies.qmd)).
 :::

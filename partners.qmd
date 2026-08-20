@@ -4,7 +4,7 @@ description: "ReDiLEEP consortium partners."
 ---
 
 ::: {.page-heading}
-# Partners
+# ![](assets/network-logo/redileep-logo.png){.title-mark alt=""} Partners
 
 ReDiLEEP is a consortium of beneficiaries, associated partners, supervisors, and sector collaborators spanning Europe and wider international research networks.
 :::

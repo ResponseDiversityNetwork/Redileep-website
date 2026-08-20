@@ -4,6 +4,10 @@ description: "A funded MSCA Doctoral Network using response diversity knowledge 
 ---
 
 ::: {.hero}
+```{=html}
+<img src="assets/network-logo/redileep-logo.png" alt="" class="hero-mark">
+```
+
 ::: {.hero-copy}
 ::: {.kicker}
 MSCA Doctoral Network

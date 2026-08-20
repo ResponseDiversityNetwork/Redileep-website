@@ -9,7 +9,7 @@ page-layout: full
 ---
 
 ::: {.page-heading}
-# News
+# ![](assets/network-logo/redileep-logo.png){.title-mark alt=""} News
 
 Updates from the ReDiLEEP Doctoral Network.
 :::

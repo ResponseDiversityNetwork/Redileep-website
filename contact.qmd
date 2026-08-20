@@ -4,7 +4,7 @@ description: "Contact ReDiLEEP."
 ---
 
 ::: {.page-heading}
-# Contact
+# ![](assets/network-logo/redileep-logo.png){.title-mark alt=""} Contact
 
 Please address inquiries to [Anna Eklöf at Linköping University](https://liu.se/en/employee/annek49).
 :::
