@@ -3,7 +3,7 @@ title: "General Recruitment Information"
 description: "General information for prospective ReDiLEEP doctoral candidate applicants."
 date: 2026-06-24
 categories: [recruitment, doctoral candidates]
-image: ../assets/hero-network.png
+image: ../assets/news-images/recruitment-forest-fieldwork.jpg
 page-layout: full
 ---
 

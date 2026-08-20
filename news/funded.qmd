@@ -3,7 +3,7 @@ title: "ReDiLEEP Doctoral Network Funded"
 description: "ReDiLEEP has been selected for funding as a Marie Skłodowska-Curie Actions Doctoral Network."
 date: 2026-05-20
 categories: [funding, network]
-image: ../assets/hero-network.png
+image: ../assets/news-images/funded-subarctic-tundra.jpg
 page-layout: full
 ---
 
