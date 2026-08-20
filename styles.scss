@@ -337,13 +337,39 @@ body {
   padding-bottom: 1.2rem;
 }
 
-.page-footer {
+.page-footer,
+.footer {
   background: #0e2439;
   color: rgba(255, 255, 255, 0.78);
+  border-top: 1px solid rgba(255, 255, 255, 0.12);
 }
 
-.page-footer a {
+.page-footer a,
+.footer a {
   color: white;
+}
+
+.nav-footer {
+  background: transparent;
+}
+
+.nav-footer-left {
+  max-width: 640px;
+}
+
+.funder-logo {
+  display: block;
+  height: 40px;
+  width: auto;
+  margin-bottom: 0.85rem;
+  border-radius: 4px;
+}
+
+.nav-footer-left p {
+  font-size: 0.82rem;
+  line-height: 1.55;
+  color: rgba(255, 255, 255, 0.68);
+  margin-bottom: 0;
 }
 
 @media (max-width: 900px) {
