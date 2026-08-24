@@ -143,6 +143,25 @@ body {
   color: white;
 }
 
+.btn-inline {
+  display: inline-block;
+  background: var(--redileep-teal);
+  color: white;
+  font-weight: 700;
+  font-size: 0.85em;
+  line-height: 1.4;
+  padding: 0.12em 0.6em;
+  border-radius: 999px;
+  margin-left: 0.35em;
+  text-decoration: none;
+  white-space: nowrap;
+}
+
+.btn-inline:hover {
+  background: #095f59;
+  color: white;
+}
+
 .section,
 .page-heading {
   width: min(var(--redileep-content-width), calc(100% - 2.5rem));
