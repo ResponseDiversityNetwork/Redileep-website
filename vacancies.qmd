@@ -6,10 +6,7 @@ description: "Doctoral candidate vacancies for ReDiLEEP."
 ::: {.page-heading}
 # ![](assets/network-logo/redileep-logo.png){.title-mark alt=""} Vacancies
 
-**Advertisments have been posted... positions are opening. Please look for links in the list below.**
-
 ReDiLEEP will recruit 13 doctoral candidates into linked response diversity projects.
-
 :::
 
 ::: {.section .text-list}
@@ -33,7 +30,7 @@ Main supervisor: Anna Eklöf. Co-supervisor(s): Samuel Ross; Sara Keen.
 
 **DC3, UOL:** The effect and fate of response diversity under environmental change  
 Host: UOL; PhD-awarding entity: UOL.  
-Main supervisor: Helmut Hillebrand. Co-supervisor(s): Maren Striebel.
+Main supervisor: Helmut Hillebrand. Co-supervisor(s): Maren Striebel. [Apply via EURAXESS](https://euraxess.ec.europa.eu/jobs/461332).
 
 **DC4, CarU:** How can we measure response diversity at scale across taxa?  
 Host: CarU; PhD-awarding entity: CarU.  
@@ -73,5 +70,5 @@ Main supervisor: Maria Santos. Co-supervisor(s): Owen Petchey; Cornelia Krug; Ut
 
 **DC13, Monash:** Physiological basis and consequences of response diversity  
 Host: Monash; PhD-awarding entity: Monash.  
-Main supervisor: Giulia Ghedini. Co-supervisor(s): Frederik De Laender; Mike Fowler; Helmut Hillebrand. [Apply via EURAXESS](https://euraxess.ec.europa.eu/jobs/460753) or [view the advertisement on the GHEDINI LAB / MONASH web page](https://www.giuliaghedini.com/join-us.html).
+Main supervisor: Giulia Ghedini. Co-supervisor(s): Frederik De Laender; Mike Fowler; Helmut Hillebrand. [Apply via EURAXESS](https://euraxess.ec.europa.eu/jobs/460753) or [view the advertisement on the Ghedini Lab / Monash web page](https://www.giuliaghedini.com/join-us.html).
 :::
