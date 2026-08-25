@@ -113,7 +113,10 @@ Trinity College Dublin
 Welsh Government
 :::
 
-::: {.person .person-no-photo}
+::: {.person}
+```{=html}
+<img src="assets/photos-of-members/laura-antao.jpg" alt="Laura Antão" class="person-photo">
+```
 **Laura Antão**  
 University of Turku
 :::
