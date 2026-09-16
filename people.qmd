@@ -10,7 +10,10 @@ Everyone currently involved in leading and supervising the ReDiLEEP network, acr
 :::
 
 ::: {.section .people-grid}
-::: {.person .person-no-photo}
+::: {.person}
+```{=html}
+<img src="assets/photos-of-members/alicia-montesinos.jpg" alt="Alicia Montesinos" class="person-photo">
+```
 **Alicia Montesinos**  
 Affiliation to be confirmed
 :::
@@ -56,7 +59,10 @@ Advanced Invasives
 University of Helsinki
 :::
 
-::: {.person .person-no-photo}
+::: {.person}
+```{=html}
+<img src="assets/photos-of-members/francesco-de-bello.jpg" alt="Francesco de Bello" class="person-photo">
+```
 **Francesco de Bello**  
 Agencia Estatal Consejo Superior de Investigaciones Científicas
 :::
