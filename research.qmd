@@ -48,7 +48,7 @@ Task 3.1 biotic interactions and network structure; Task 3.2 chronic press distu
 Explores how ecological network structure and response diversity groups affect ecosystem resilience.  
 *Focus:* Community detection; ecological network simulations; generated and empirical network data; interactive visualisation.
 
-**DC2, LiU:** Using soundscapes to reveal how species interaction networks shape response diversity  
+**DC2, LiU:** Species interaction networks and response diversity in soundscapes  
 Uses acoustic monitoring to infer species interactions and test how biotic and abiotic drivers shape response diversity.  
 *Focus:* AI pipelines for acoustic recordings; interaction networks; urbanisation gradients; typhoon disturbance data from OIST.
 
