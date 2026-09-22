@@ -162,6 +162,18 @@ body {
   color: white;
 }
 
+.status-closed {
+  display: inline-block;
+  background: rgba(14, 36, 57, 0.08);
+  color: var(--redileep-muted);
+  font-weight: 700;
+  font-size: 0.85em;
+  line-height: 1.4;
+  padding: 0.12em 0.6em;
+  border-radius: 999px;
+  white-space: nowrap;
+}
+
 .section,
 .page-heading {
   width: min(var(--redileep-content-width), calc(100% - 2.5rem));
