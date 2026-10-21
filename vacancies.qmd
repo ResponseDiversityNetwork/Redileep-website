@@ -56,7 +56,7 @@ Main supervisor: Frederik De Laender. Co-supervisor(s): Owen Petchey.
 **DC8, CSIC:** Disruption of compensatory dynamics under extreme climatic events  
 Host: CSIC; PhD-awarding entity: Universitat de València.  
 Main supervisor: Francesco de Bello. Co-supervisor(s): Alicia Montesinos.  
-[Applications closed]{.status-closed}
+[Apply via EURAXESS](https://euraxess.ec.europa.eu/jobs/466532){.btn-inline}
 
 **DC9, UH:** Boreal forest and tundra plant communities under environmental change  
 Host: UH; PhD-awarding entity: UH.  
