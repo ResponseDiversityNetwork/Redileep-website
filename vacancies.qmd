@@ -37,11 +37,13 @@ Main supervisor: Helmut Hillebrand. Co-supervisor(s): Maren Striebel.
 
 **DC4, CarU:** How can we measure response diversity at scale across taxa?  
 Host: CarU; PhD-awarding entity: CarU.  
-Main supervisor: Fredric Windsor. Co-supervisor(s): Samuel Ross.
+Main supervisor: Fredric Windsor. Co-supervisor(s): Samuel Ross.  
+[Apply via EURAXESS](https://euraxess.ec.europa.eu/jobs/475964){.btn-inline}
 
 **DC5, CarU:** Do biotic interactions homogenise responses and reduce response diversity?  
 Host: CarU; PhD-awarding entity: CarU.  
-Main supervisor: Fredric Windsor. Co-supervisor(s): Giulia Ghedini; Tad Dallas.
+Main supervisor: Fredric Windsor. Co-supervisor(s): Giulia Ghedini; Tad Dallas.  
+[Apply via EURAXESS](https://euraxess.ec.europa.eu/jobs/475966){.btn-inline}
 
 **DC6, UNamur:** A general theory of response diversity effects on stability and coexistence  
 Host: UNamur; PhD-awarding entity: UNamur.  
