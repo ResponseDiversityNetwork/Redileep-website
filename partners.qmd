@@ -116,10 +116,13 @@ Recruitment and supervision of students; secondments; provision of training
 :::
 
 ::: {.partner-entry}
-### Okinawa Institute of Science and Technology Graduate University
+```{=html}
+<img src="assets/partner-logos/kyoto.png" alt="Kyoto University logo" class="partner-logo">
+```
+### Kyoto University
 
-**OIST | Associated partner | JP**  
-Integrative Community Ecology Unit  
+**KyoDai | Associated partner | JP**  
+Graduate School of Agriculture  
 Scientist in charge: Samuel RP-J Ross.  
 Co-supervision of students; secondments; provision of training
 :::

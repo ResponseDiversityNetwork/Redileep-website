@@ -27,7 +27,7 @@ Covers project and data management version control Tidyverse machine learning an
 ::: {.text-item .wide-item}
 ## Writing science well
 
-**Online training school | Month 11 | Lead: OIST | 1.0 ECTS**  
+**Online training school | Month 11 | Lead: KyoDai | 1.0 ECTS**  
 Builds scientific writing habits including abstracts IMRaD collaborative writing open access publishing and ethical AI use.
 :::
 
@@ -62,7 +62,7 @@ Develops professional presence CVs networking skills and employer-facing present
 ::: {.text-item .wide-item}
 ## Collaborative writing retreat
 
-**Training school | Month 32 | Lead: OIST | 1.5 ECTS**  
+**Training school | Month 32 | Lead: KyoDai | 1.5 ECTS**  
 Supports papers and thesis chapters through structured writing goals peer feedback and accountability partnerships.
 :::
 

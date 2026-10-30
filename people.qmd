@@ -164,7 +164,7 @@ University of Zurich
 <img src="assets/photos-of-members/samuel-ross.jpg" alt="Samuel Ross" class="person-photo">
 ```
 **Samuel Ross**  
-Okinawa Institute of Science and Technology Graduate University
+Kyoto University
 :::
 
 ::: {.person .person-no-photo}
